@@ -3,7 +3,7 @@
 
 Who's ready to take a quiz?
 
-![](https://media.giphy.com/media/iFz1Z9yT2R7ib1YXnh/giphy.gif)
+![](quiz.gif)
 
 We all have taken online [quizzes like this](https://www.sporcle.com/games/g/world) when we are bored. Today we are going to build out our own quiz!
 
