@@ -1,6 +1,5 @@
 # PICTURE QUIZ
 
----
 
 Who's ready to take a quiz?
 
@@ -10,7 +9,6 @@ We all have taken online [quizzes like this](https://www.sporcle.com/games/g/wor
 
 ## GOAL
 
----
 
 Today's quiz is going to respond to what the user types. The quiz is setup to name all the characters in Stranger Things. If the user names a correct character, then the screen updates with the picture of that character.
 
@@ -18,7 +16,6 @@ Today's quiz is going to respond to what the user types. The quiz is setup to na
 
 ## INPUT EVENT LISTENERS
 
----
 
 Click events are cool, but they aren't the event that triggered cool stuff in the example that launched this lesson.
 
@@ -59,7 +56,6 @@ The console will log two statements every time the `input` field is updated. It 
 
 ## TASKS
 
----
 
 For today's lab you should do the following:
 
@@ -95,7 +91,6 @@ textbox.addEventListener("input", function(event) {
 9. Print a message to the `div` with an id of `#message` when the user has guessed all the correct characters.
 
 ## STRETCH CHALLENGES
----
 - Auto-erase answers - When a user types in their guess and gets it right, the final version of the app instantly recognizes the correct answer and erases the text to let them make their next guess, but our current version requires the user to erase everything one character at a time.  
 - Handle case-sensitivity - A user should probably get credit for "Eleven" or "eleven" or "ELEVEN". Find a way to make it work no matter what.  
 - Eliminate duplicates - right now, each right answer can be entered multiple times to get the same image multiple times. That's fun, but it may not be what you wanted to happen.  
