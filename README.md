@@ -94,6 +94,6 @@ textbox.addEventListener("input", function(event) {
 - Auto-erase answers - When a user types in their guess and gets it right, the final version of the app instantly recognizes the correct answer and erases the text to let them make their next guess, but our current version requires the user to erase everything one character at a time.  
 - Handle case-sensitivity - A user should probably get credit for "Eleven" or "eleven" or "ELEVEN". Find a way to make it work no matter what.  
 - Eliminate duplicates - right now, each right answer can be entered multiple times to get the same image multiple times. That's fun, but it may not be what you wanted to happen.  
--Keep Score - Show the user how many correct answers they've gotten, as well as how many are possible to get. Give them some form of congratulatory message when they succeed in guessing everything.
+- Keep Score - Show the user how many correct answers they've gotten, as well as how many are possible to get. Give them some form of congratulatory message when they succeed in guessing everything.
 - Add a timer - Using some new JavaScript methods (you'll likely need `setTimeout()` or `setInterval()` and want to consult some documentation on how those things work), see if you can create a countdown clock on the page somewhere that shows how much time they have left.  
 
